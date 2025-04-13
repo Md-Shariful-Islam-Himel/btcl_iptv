@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:0 ,Channel S
-https://cdn149.anystream.uk:8082/g1/tvchsuk03/chunks.m3u8
+https://cdn149.anystream.uk:8082/g1/tvchsuk03/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" tvg-logo-small="https://i.imgur.com/fRivJD3.jpg" ,Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8?@amarnettv.live
 #EXTINF:-1 ,GTV
@@ -11,8 +11,8 @@ https://hncfree-samsungau.amagi.tv/playlist.m3u8
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" tvg-logo="https://i.imgur.com/4B5FvmX.png" tvg-logo-small="https://i.imgur.com/4B5FvmX.png" ,Palestine Satellite Channel
 http://htvpalsat.mada.ps:8888/PBC/index.m3u8
-#EXTINF:-1 ,Madani Channel Bangla
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/2.m3u8
+#EXTINF:-1 ,Channel S bd
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png" tvg-logo-small="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png" ,BTV
 http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
 #EXTINF:-1 ,DD Bangla
