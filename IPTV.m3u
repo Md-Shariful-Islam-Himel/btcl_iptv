@@ -17,8 +17,6 @@ https://live.presstv.ir/hls/presstv_3_482/index.m3u8
 http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
 #EXTINF:-1 ,DD Bangla
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z4rLIVW.png" tvg-logo-small="https://i.imgur.com/z4rLIVW.png" ,BBC Nordic
-http://uavuuvr.msuperab.xyz:900/live/9708461610/1164158489/16327.m3u8
 #EXTINF:-1 ,rta
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8
 #EXTINF:-1 ,Duck tv
