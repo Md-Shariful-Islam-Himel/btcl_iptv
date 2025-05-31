@@ -53,8 +53,8 @@ http://cdn.moviemazic.xyz:8083/Maasranga/tracks-v1a1/mono.m3u8
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 ,my tv
 http://cdn.moviemazic.xyz:8083/MyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,OUTDOOR
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 ,rt documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_800Kb.m3u8
 #EXTINF:-1 ,NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8zmLbfi.png" tvg-logo-small="https://i.imgur.com/8zmLbfi.png" ,Peace Tv
@@ -193,5 +193,5 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 http://iptv.prosto.tv:7000/ch257/video.m3u8
 #EXTINF:-1 tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" tvg-logo-small="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" ,Willow Tv
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowusa
-#EXTINF:-1 ,test
-http://172.200.200.2:8090/sky14/tracks-v2a1/mono.m3u8
+#EXTINF:-1 ,ATN Bangla
+http://cdn.moviemazic.xyz:8083/ATNBangla/tracks-v1a1/mono.m3u8
