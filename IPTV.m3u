@@ -11,7 +11,7 @@ https://hncfree-samsungau.amagi.tv/playlist.m3u8
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1633316855.m3u8
 #EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" tvg-logo="https://i.imgur.com/4B5FvmX.png" tvg-logo-small="https://i.imgur.com/4B5FvmX.png" ,Palestine Tv
 https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,S HD Kids Zone
+#EXTINF:-1 ,bein sports
 http://10.10.10.2/live/fnf001/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png" tvg-logo-small="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png" ,BTV
 http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
@@ -23,10 +23,10 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8
 https://mmm-dk-wedotv.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" ,Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
-#EXTINF:-1 ,espn
+#EXTINF:-1 ,star sports 1
 http://10.10.10.2/live/fnf004/index.m3u8
-#EXTINF:-1 ,Channel i
-http://cdn.moviemazic.xyz:8083/ChannelI/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Mr bean Show
+https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
 #EXTINF:0 tvg-logo="https://i.imgur.com/e3cYtrb.jpg" tvg-logo-small="https://i.imgur.com/e3cYtrb.jpg" ,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8?@amarnettv.live
 #EXTINF:-1 ,Deepto Tv
@@ -57,10 +57,10 @@ http://cdn.moviemazic.xyz:8083/MyTV/tracks-v1a1/mono.m3u8
 https://rt-rtd.rttv.com/live/rtdoc/playlist_800Kb.m3u8
 #EXTINF:-1 ,NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8zmLbfi.png" tvg-logo-small="https://i.imgur.com/8zmLbfi.png" ,Peace Tv
-https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="XHSPRTDT1.mx" ,Peace Tv Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/nilesatfr.jpg" tvg-logo-small="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/nilesatfr.jpg" ,Al Jazeera Kids
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
+#EXTINF:-1 ,ib tv usa
+http://208.86.19.13:81/509.stream/index.m3u8
 #EXTINF:-1 tvg-id="QausainTV.ng" tvg-logo="https://i.ibb.co/N70QyQ7/Qausain-TV-logo.png" tvg-logo-small="https://i.ibb.co/N70QyQ7/Qausain-TV-logo.png" ,Qausain TV
 https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" tvg-logo-small="https://i.ibb.co/yBYRgLt/20240813-063955.png" ,Rongeen Tv
@@ -109,8 +109,8 @@ https://english-livetx.cgtn.com/hls/yypdyyctzb_sd.m3u8
 https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/playlist.m3u8
 #EXTINF:-1 ,Banglavision
 http://cdn.moviemazic.xyz:8083/BanglaVision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Rtv
-http://cdn.moviemazic.xyz:8083/RTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" ,Peace tv bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png" tvg-logo-small="https://ui.cgtn.com/static/ng/resource/images/logo_title.png" ,CGTN Documentary
 https://english-livetx.cgtn.com/hls/yypdjlctzb_sd.m3u8
 #EXTINF:-1 ,NHK world
@@ -185,13 +185,21 @@ https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg" tvg-logo-small="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg" ,Ten Sports
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180411/zqe/avfjkpnvw.webp" tvg-logo-small="https://banner2.cleanpng.com/20180411/zqe/avfjkpnvw.webp" ,sky sports
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyscric
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DiBRpcI.jpg" tvg-logo-small="https://i.imgur.com/DiBRpcI.jpg" ,Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png" tvg-logo-small="https://pash.ink/storage/uploads/JungleBook_Logo.png" ,Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" ,History 2
 http://iptv.prosto.tv:7000/ch257/video.m3u8
-#EXTINF:-1 tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" tvg-logo-small="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" ,Willow Tv
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowusa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/200px-PTV_Sports.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/200px-PTV_Sports.png" ,ptv sports
+http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:-1 ,ATN Bangla
 http://cdn.moviemazic.xyz:8083/ATNBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Crime Files
+https://videoelephant-limited-crimefiles-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Tastemade
+https://tastemade-tastemadees16intl-tcl-p49s8.amagi.tv/playlist/tastemade-tastemadees16intl-tcl/playlist.m3u8
+#EXTINF:-1 ,Masterchef Mexico
+https://amg00627-banijay-amg00627c10-tcl-us-4286.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Reuters
+https://amg00453-reuters-amg00453c1-tcl-us-3947.playouts.now.amagi.tv/playlist.m3u8
