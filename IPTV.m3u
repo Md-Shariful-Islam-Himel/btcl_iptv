@@ -109,8 +109,8 @@ https://english-livetx.cgtn.com/hls/yypdyyctzb_sd.m3u8
 https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/playlist.m3u8
 #EXTINF:-1 ,Banglavision
 http://cdn.moviemazic.xyz:8083/BanglaVision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" ,Peace tv bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+#EXTINF:-1 ,Tastemade Home
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome-tablo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png" tvg-logo-small="https://ui.cgtn.com/static/ng/resource/images/logo_title.png" ,CGTN Documentary
 https://english-livetx.cgtn.com/hls/yypdjlctzb_sd.m3u8
 #EXTINF:-1 ,NHK world
@@ -135,8 +135,8 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 #EXTINF:-1 ,Nature time
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/cb573d1e786c678b84cb3d65cef04282967b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae704cc59e0a957f39e8fc8b307b24455a9c5a43e6a64ed6abb64244db6abfb102488b2f57f387179c8249bb8287469c108f24ec159cc4f0968114d08f8c60af03e332585d722ec1d221a1213cdcaef2fcadb50b4a643a178c8192f049308743464ff08da4d507de20be42a11c024ddf218b46854ae10313c28f932b84a5bad443034ecc7ff55055c1c6dae4df3d32b667bb86e0cb7a6f90f91a3a28a1d77613595ac1aeb171a0cb149db769e3de0d4c6a91c617dbf5b6f23ac516e112fc9de78d93c755b2a1ff34a617c8bb7ed228925ca0cf182066ea25c78778cb9cd0523c6300d3ce0e945b2cb0d58f8cc81d7be4545b0bb82e8900455bc53a3a28be6de1cc6825c9071a953938cc5d37ab4be8f779a6f095b6507bfdf5ef76d243a3f506dbfd07e94a395a09bcbb6c7c4d5e72ddeb295c632f8d15aa8384b1373a01eaf6dff78f066b507744044caee6e03fcadd96674d58911d7612017a7da10dd86dd0175a407f996cb4823d34d4566f7d9ce85534776595dabe9288d0de36dc52daccef363c345f77c75d202269d6f6c019ca31457a754a934d0367b8145156e585c386c8d236d6fd84cb9bb782c3a38a6c47fc92a63fb6aee385f63091a6d5/128/848x480_1249600/index.m3u8
-#EXTINF:-1 ,Faculty tv
-https://stream-server9-jupiter.muxlive.com/hls/facultytv/index.m3u8
+#EXTINF:-1 ,Tastemade Travel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravel-tablo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0yV30RC/IMG-20240126-084454.jpg" ,ntv
 http://cdn.moviemazic.xyz:8083/NTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7F0P50N/GKBkm2e.png" tvg-logo-small="https://i.postimg.cc/X7F0P50N/GKBkm2e.png" ,Deshi Tv
@@ -195,11 +195,11 @@ http://iptv.prosto.tv:7000/ch257/video.m3u8
 http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:-1 ,ATN Bangla
 http://cdn.moviemazic.xyz:8083/ATNBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Crime Files
-https://videoelephant-limited-crimefiles-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,History Time
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-tablo/playlist.m3u8
 #EXTINF:-1 ,Tastemade
-https://tastemade-tastemadees16intl-tcl-p49s8.amagi.tv/playlist/tastemade-tastemadees16intl-tcl/playlist.m3u8
-#EXTINF:-1 ,Masterchef Mexico
-https://amg00627-banijay-amg00627c10-tcl-us-4286.playouts.now.amagi.tv/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadefreetv16-tablo/playlist.m3u8
+#EXTINF:-1 ,The design network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00441-thedesignnetwor-thedesignnetwork-tablo/playlist.m3u8
 #EXTINF:-1 ,Reuters
 https://amg00453-reuters-amg00453c1-tcl-us-3947.playouts.now.amagi.tv/playlist.m3u8
