@@ -25,8 +25,8 @@ https://mmm-dk-wedotv.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAM
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
 #EXTINF:-1 ,star sports 1
 http://10.10.10.2/live/fnf004/index.m3u8
-#EXTINF:-1 ,Mr bean Show
-https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
+#EXTINF:-1 ,News 24
+http://cdn.moviemazic.xyz:8083/News24/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/e3cYtrb.jpg" tvg-logo-small="https://i.imgur.com/e3cYtrb.jpg" ,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8?@amarnettv.live
 #EXTINF:-1 ,Deepto Tv
@@ -85,8 +85,8 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WomanTV.tr" tvg-logo="https://i.imgur.com/f2zGoV3.png" tvg-logo-small="https://i.imgur.com/f2zGoV3.png" ,Woman TV
 https://embedlp.becdn.net/womantv.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png" tvg-logo-small="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png" ,Zee Bangla
-http://cdn.moviemazic.xyz:8083/ZeeBanglaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,BTV NEWS
+http://cdn.moviemazic.xyz:8083/BTVWorld/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,gusto tv
 https://gusto-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,T Sports
@@ -105,8 +105,8 @@ https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist/4.m3u8
 http://cdn.moviemazic.xyz:8083/ATNNews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,CGTN
 https://english-livetx.cgtn.com/hls/yypdyyctzb_sd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A5ui53C.png" tvg-logo-small="https://i.imgur.com/A5ui53C.png" ,Bloomberg Asia
-https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A5ui53C.png" tvg-logo-small="https://i.imgur.com/A5ui53C.png" ,Channel i
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1692000.m3u8
 #EXTINF:-1 ,Banglavision
 http://cdn.moviemazic.xyz:8083/BanglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Tastemade Home
@@ -127,8 +127,8 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index_6.m3u8
 #EXTINF:-1 ,Deen Tv
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/chunks.m3u8
-#EXTINF:-1 ,Bangla Tv Europe
-https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
+#EXTINF:-1 ,asian tv
+http://cdn.moviemazic.xyz:8083/AsianTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Bangla Tv
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0VJYrn.png" tvg-logo-small="https://i.imgur.com/o0VJYrn.png" ,Hello Taste
@@ -137,8 +137,8 @@ https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/cb573d1e786c678b84cb3d65cef04282967b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae704cc59e0a957f39e8fc8b307b24455a9c5a43e6a64ed6abb64244db6abfb102488b2f57f387179c8249bb8287469c108f24ec159cc4f0968114d08f8c60af03e332585d722ec1d221a1213cdcaef2fcadb50b4a643a178c8192f049308743464ff08da4d507de20be42a11c024ddf218b46854ae10313c28f932b84a5bad443034ecc7ff55055c1c6dae4df3d32b667bb86e0cb7a6f90f91a3a28a1d77613595ac1aeb171a0cb149db769e3de0d4c6a91c617dbf5b6f23ac516e112fc9de78d93c755b2a1ff34a617c8bb7ed228925ca0cf182066ea25c78778cb9cd0523c6300d3ce0e945b2cb0d58f8cc81d7be4545b0bb82e8900455bc53a3a28be6de1cc6825c9071a953938cc5d37ab4be8f779a6f095b6507bfdf5ef76d243a3f506dbfd07e94a395a09bcbb6c7c4d5e72ddeb295c632f8d15aa8384b1373a01eaf6dff78f066b507744044caee6e03fcadd96674d58911d7612017a7da10dd86dd0175a407f996cb4823d34d4566f7d9ce85534776595dabe9288d0de36dc52daccef363c345f77c75d202269d6f6c019ca31457a754a934d0367b8145156e585c386c8d236d6fd84cb9bb782c3a38a6c47fc92a63fb6aee385f63091a6d5/128/848x480_1249600/index.m3u8
 #EXTINF:-1 ,Tastemade Travel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravel-tablo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0yV30RC/IMG-20240126-084454.jpg" ,ntv
-http://cdn.moviemazic.xyz:8083/NTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,channel 9
+http://cdn.moviemazic.xyz:8083/Channel9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7F0P50N/GKBkm2e.png" tvg-logo-small="https://i.postimg.cc/X7F0P50N/GKBkm2e.png" ,Deshi Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 ,Palestine edu
@@ -147,8 +147,8 @@ https://pbc.furrera.ps/PalestineEDU/tracks-v2a1/mono.m3u8
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_source/chunks_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-logo-small="https://i.imgur.com/A1xzjOI.png" ,DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 ,toffee
-http://172.200.200.2:8090/sky14/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Jamuna Tv
+http://cdn.moviemazic.xyz:8083/JamunaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Hobby Maker
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/chunklist_w146883357_b283000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" tvg-logo-small="https://i.imgur.com/Asu5pE9.png" ,Arirang
@@ -191,8 +191,8 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" ,History 2
 http://iptv.prosto.tv:7000/ch257/video.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/200px-PTV_Sports.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/200px-PTV_Sports.png" ,ptv sports
-http://175.107.244.52:4457/play/a08g/index.m3u8
+#EXTINF:-1 ,Rtv
+http://cdn.moviemazic.xyz:8083/RTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ATN Bangla
 http://cdn.moviemazic.xyz:8083/ATNBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,History Time
@@ -201,5 +201,5 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-tablo/
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadefreetv16-tablo/playlist.m3u8
 #EXTINF:-1 ,The design network
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00441-thedesignnetwor-thedesignnetwork-tablo/playlist.m3u8
-#EXTINF:-1 ,Reuters
-https://amg00453-reuters-amg00453c1-tcl-us-3947.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,SATV
+http://cdn.moviemazic.xyz:8083/SATV/tracks-v1a1/mono.m3u8
