@@ -201,5 +201,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-tablo/
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadefreetv16-tablo/playlist.m3u8
 #EXTINF:-1 ,The design network
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00441-thedesignnetwor-thedesignnetwork-tablo/playlist.m3u8
-#EXTINF:-1 ,SATV
-http://cdn.moviemazic.xyz:8083/SATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Forensic Files
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885516/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885516
+#EXTINF:-1 ,BBC Food
+https://d74d877d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDRm9vZF9ITFM/playlist.m3u8
+#EXTINF:-1 ,True History
+https://linear-188.frequency.stream/dist/vizio/188/hls/master/playlist.m3u8
