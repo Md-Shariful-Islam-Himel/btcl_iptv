@@ -8,7 +8,7 @@ http://cdn.moviemazic.xyz:8083/NTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1x6zYZr.png" tvg-logo-small="https://i.imgur.com/1x6zYZr.png" ,H&C
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Anime Tv
-https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1633316855.m3u8
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" tvg-logo="https://i.imgur.com/4B5FvmX.png" tvg-logo-small="https://i.imgur.com/4B5FvmX.png" ,Palestine Tv
 https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SATV
@@ -95,8 +95,8 @@ https://bonappetit-samsung.amagi.tv/720p-vtt/index.m3u8
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist/4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4JPD5hztRxjfYiR5c1wNlZAY6sZiaZAkkZ6Ka9arndt2pZXDtHg_VuJI&s=10" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4JPD5hztRxjfYiR5c1wNlZAY6sZiaZAkkZ6Ka9arndt2pZXDtHg_VuJI&s=10" ,ATN News
 http://cdn.moviemazic.xyz:8083/ATNNews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,CGTN
-https://english-livetx.cgtn.com/hls/yypdyyctzb_sd.m3u8
+#EXTINF:-1 ,5 minute craft
+https://amg02051-soulpublishing-amg02051c7-plex-us-306.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-306/cb573d1e786c678b84cb3d65cef54682967b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae7e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64ed6abb64244db64bfb102488b2f57f3864b9bdd4deed38746984ad322ec159cc4f096da19d1d78c6bab5ee3350c012728ced52ca1213cdcaef2fcadb50b4a643a178c8192f049308743464ff08da4d507de20be42a11c024ddf218b46854ae10313c28f932b84a5bad443034ecc7ff55055c1c6dae4df3d32b667bb86e0cb7a6f90f91a3a28a1d77613595ac1aeb171a0cb149db769e3de0d4c6a91c617dbf5b6f23ac516e112fc9de78d93c755b2a1ff34a617c8bb7ed228925ca0cf182066ea25c78778cb9cd0523c6300d3ce0e945b2cb0d58f8cc81d7be4545b0bb82e8900455bc53a3a28be6de1cc6825c9071a953938cc5d37ab4be8f779a6f095b6507bfdf5ef76d243a3f506dbfd07e94a395a09bcbb6c7c4d5e72ddeb295c63218d15aa8384b1373a01eaf6dff78f066b507744044caee6e03fcadd98674d58911d7612017a7da10dd86dd0175a407f996cb4823d34d4566f7d9ce85534776595dabe9288d0de36dc52daccef363c345f77c75d202269d6f6c019ca31457a754a934d0367b8145156e585c386c8d63ed6fd84cba7f4e5c7a36682b4c8f9a5efde55f7bd068582ae6d/160/960x540_2200000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A5ui53C.png" tvg-logo-small="https://i.imgur.com/A5ui53C.png" ,Channel i
 http://cdn.moviemazic.xyz:8083/ChannelI/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Banglavision
