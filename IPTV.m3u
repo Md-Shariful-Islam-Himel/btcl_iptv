@@ -83,10 +83,10 @@ https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 http://cdn.moviemazic.xyz:8083/BTVWorld/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,gusto tv
 https://gusto-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Al Quran Al Kareem TV
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1 ,TRT ÇOCUK
-https://tv-trtcocuk.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 ,Peace TV English
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 ,islam channel
+https://corsply.cfpass1.workers.dev/?url=https://dtfe3weh30eb8.cloudfront.net/live11/islamtv_english/bitrate1.isml/playlist.m3u8
 #EXTINF:-1 ,TRT World
 https://tv-trtworld.medya.trt.com.tr/master_480.m3u8
 #EXTINF:-1 ,bonappetit
@@ -109,12 +109,12 @@ https://english-livetx.cgtn.com/hls/yypdjlctzb_sd.m3u8
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/AccuWeather_2021.svg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/5/5d/AccuWeather_2021.svg" ,accu weather
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
-#EXTINF:-1 ,Al Sunnah Al Nabawiyah TV
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1 ,Xumo Free Food
+https://dbrb49pjoymg4.cloudfront.net/10001/9995117/hls/master.m3u8?ads.xumo_channelId=9995117
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/4ZbTdbx/images-1.jpg" tvg-logo-small="https://i.ibb.co.com/4ZbTdbx/images-1.jpg" ,Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 ,Saudi Thaqafiya Tv
-https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index_6.m3u8
+#EXTINF:-1 ,History Shorts
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991290
 #EXTINF:-1 ,Deen Tv
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/chunks.m3u8
 #EXTINF:-1 ,Bangla Tv
