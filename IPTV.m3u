@@ -1,26 +1,24 @@
 ﻿#EXTM3U
-#EXTINF:0 ,Channel S
-https://cd198.anystream.uk:8082/hls/tvchsuk03/3_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/f95c40a17cfe5b9fb1970192e378fb0c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1655146991984_Roku_HUD.png" tvg-logo-small="https://images.sr.roku.com/idType/roku/context/trc/id/f95c40a17cfe5b9fb1970192e378fb0c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1655146991984_Roku_HUD.png" ,AccuWeather NOW
+https://jmp2.uk/rok-f95c40a17cfe5b9fb1970192e378fb0c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" tvg-logo-small="https://i.imgur.com/fRivJD3.jpg" ,Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8?@amarnettv.live
 #EXTINF:-1 ,ntv
 http://cdn.moviemazic.xyz:8083/NTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1x6zYZr.png" tvg-logo-small="https://i.imgur.com/1x6zYZr.png" ,H&C
-https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,T Sports
 http://10.10.10.2/live/fnf002/index.m3u8
 #EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" tvg-logo="https://i.imgur.com/4B5FvmX.png" tvg-logo-small="https://i.imgur.com/4B5FvmX.png" ,Palestine Tv
 https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,SATV
-http://cdn.moviemazic.xyz:8083/SATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Gtv
+http://cdn.moviemazic.xyz:8083/live-5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png" tvg-logo-small="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png" ,BTV
 http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
-#EXTINF:-1 ,DD Bangla
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/bc932f13c31e542db6e3e6247e7131bc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652896913644_beIN-SPORTS-XTRA_LOGO_ROKU_HUD_260x147%255B1%255D.png" tvg-logo-small="https://images.sr.roku.com/idType/roku/context/trc/id/bc932f13c31e542db6e3e6247e7131bc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652896913644_beIN-SPORTS-XTRA_LOGO_ROKU_HUD_260x147%255B1%255D.png" ,beIN SPORTS Xtra
+https://jmp2.uk/rok-bc932f13c31e542db6e3e6247e7131bc.m3u8
 #EXTINF:-1 ,rta
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8
-#EXTINF:-1 ,Duck tv
-https://mmm-dk-wedotv.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/cc72c25b76295e07862192d21bbff05b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669079132437_RealCrime_White_260x147_Horizontal.png" tvg-logo-small="https://images.sr.roku.com/idType/roku/context/trc/id/cc72c25b76295e07862192d21bbff05b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669079132437_RealCrime_White_260x147_Horizontal.png" ,Real Crime
+https://jmp2.uk/rok-cc72c25b76295e07862192d21bbff05b.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" ,Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
 #EXTINF:-1 ,News 24
@@ -53,12 +51,12 @@ http://cdn.moviemazic.xyz:8083/MyTV/tracks-v1a1/mono.m3u8
 https://rt-rtd.rttv.com/live/rtdoc/playlist_800Kb.m3u8
 #EXTINF:-1 ,NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/nilesatfr.jpg" tvg-logo-small="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/nilesatfr.jpg" ,Al Jazeera Kids
-http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200012B8_20250729T185033SQUARE.png" tvg-logo-small="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200012B8_20250729T185033SQUARE.png" ,BBC Home & Garden
+https://jmp2.uk/stvp-CABD1200012B8
 #EXTINF:-1 ,ib tv usa
 http://208.86.19.13:81/509.stream/index.m3u8
-#EXTINF:-1 tvg-id="QausainTV.ng" tvg-logo="https://i.ibb.co/N70QyQ7/Qausain-TV-logo.png" tvg-logo-small="https://i.ibb.co/N70QyQ7/Qausain-TV-logo.png" ,Qausain TV
-https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8
+#EXTINF:-1 tvg-id="QausainTV.ng" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA800001ZX_20250805T010110SQUARE.png" tvg-logo-small="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA800001ZX_20250805T010110SQUARE.png" ,BBC Kids
+https://jmp2.uk/stvp-CA800001ZX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" tvg-logo-small="https://i.ibb.co/yBYRgLt/20240813-063955.png" ,Rongeen Tv
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" tvg-logo-small="https://i.ibb.co/4jQHgVj/download-5.png" ,RTA Sports
@@ -81,12 +79,12 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,BTV NEWS
 http://cdn.moviemazic.xyz:8083/BTVWorld/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,gusto tv
-https://gusto-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2500020SS_20250805T010248SQUARE.png" tvg-logo-small="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2500020SS_20250805T010248SQUARE.png" ,TED
+https://jmp2.uk/stvp-CABB2500020SS
 #EXTINF:-1 ,Peace TV English
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
-#EXTINF:-1 ,islam channel
-https://corsply.cfpass1.workers.dev/?url=https://dtfe3weh30eb8.cloudfront.net/live11/islamtv_english/bitrate1.isml/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/a7a15769f0275c0ea9b2064b95637cfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1716479060920_Real_Disaster-HUD.png" tvg-logo-small="https://images.sr.roku.com/idType/roku/context/trc/id/a7a15769f0275c0ea9b2064b95637cfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1716479060920_Real_Disaster-HUD.png" ,Real Disaster Channel
+https://jmp2.uk/rok-a7a15769f0275c0ea9b2064b95637cfd.m3u8
 #EXTINF:-1 ,TRT World
 https://tv-trtworld.medya.trt.com.tr/master_480.m3u8
 #EXTINF:-1 ,bonappetit
@@ -121,10 +119,10 @@ https://ap02.iqplay.tv:8082/iqb8002/d33ntv/chunks.m3u8
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0VJYrn.png" tvg-logo-small="https://i.imgur.com/o0VJYrn.png" ,Hello Taste
 https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
-#EXTINF:-1 ,Nature time
-https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/cb573d1e786c678b84cb3d65cef04282967b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae704cc59e0a957f39e8fc8b307b24455a9c5a43e6a64ed6abb64244db6abfb102488b2f57f387179c8249bb8287469c108f24ec159cc4f0968114d08f8c60af03e332585d722ec1d221a1213cdcaef2fcadb50b4a643a178c8192f049308743464ff08da4d507de20be42a11c024ddf218b46854ae10313c28f932b84a5bad443034ecc7ff55055c1c6dae4df3d32b667bb86e0cb7a6f90f91a3a28a1d77613595ac1aeb171a0cb149db769e3de0d4c6a91c617dbf5b6f23ac516e112fc9de78d93c755b2a1ff34a617c8bb7ed228925ca0cf182066ea25c78778cb9cd0523c6300d3ce0e945b2cb0d58f8cc81d7be4545b0bb82e8900455bc53a3a28be6de1cc6825c9071a953938cc5d37ab4be8f779a6f095b6507bfdf5ef76d243a3f506dbfd07e94a395a09bcbb6c7c4d5e72ddeb295c632f8d15aa8384b1373a01eaf6dff78f066b507744044caee6e03fcadd96674d58911d7612017a7da10dd86dd0175a407f996cb4823d34d4566f7d9ce85534776595dabe9288d0de36dc52daccef363c345f77c75d202269d6f6c019ca31457a754a934d0367b8145156e585c386c8d236d6fd84cb9bb782c3a38a6c47fc92a63fb6aee385f63091a6d5/128/848x480_1249600/index.m3u8
-#EXTINF:-1 ,Tastemade Travel
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravel-tablo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200040JI_20250805T010113SQUARE.png" tvg-logo-small="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200040JI_20250805T010113SQUARE.png" ,Baby Einstein
+https://jmp2.uk/stvp-CABD1200040JI
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200010LE_20250729T185031SQUARE.png" tvg-logo-small="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200010LE_20250729T185031SQUARE.png" ,BBC Food
+https://jmp2.uk/stvp-CABD1200010LE
 #EXTINF:-1 ,channel 9
 http://cdn.moviemazic.xyz:8083/Channel9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7F0P50N/GKBkm2e.png" tvg-logo-small="https://i.postimg.cc/X7F0P50N/GKBkm2e.png" ,Deshi Tv
