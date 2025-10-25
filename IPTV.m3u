@@ -20,9 +20,9 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/cc72c25b76295e07862192d21bbff05b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669079132437_RealCrime_White_260x147_Horizontal.png" tvg-logo-small="https://images.sr.roku.com/idType/roku/context/trc/id/cc72c25b76295e07862192d21bbff05b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669079132437_RealCrime_White_260x147_Horizontal.png" ,Real Crime
 https://jmp2.uk/rok-cc72c25b76295e07862192d21bbff05b.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/512px-Cartoon_Network_Arabic_logo.png" ,Cartoon Network
-https://p11.magicplaces.eu/cartoonnetworksd/video.m3u8?token=174209314fa70d4c441f9468517ac31a5c48bf92-1ffd47a721b66f532f422e1f2153d6b3-1760707125-1760706825&remote=no_check_ip
-#EXTINF:-1 ,News 24
-http://cdn.moviemazic.xyz:8083/News24/tracks-v1a1/mono.m3u8
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8?nimblesessionid=585048028
+#EXTINF:-1 ,Batul the Great
+https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/e3cYtrb.jpg" tvg-logo-small="https://i.imgur.com/e3cYtrb.jpg" ,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8?@amarnettv.live
 #EXTINF:-1 ,Deepto Tv
@@ -31,14 +31,14 @@ http://cdn.moviemazic.xyz:8083/DeeptoTV/tracks-v1a1/mono.m3u8
 http://cdn.moviemazic.xyz:8083/IndependentTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,DBC news
 http://cdn.moviemazic.xyz:8083/DBCNews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png" tvg-logo-small="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png" timeshift="EkusheyTV.bd" ,Ekushey Television
-http://cdn.moviemazic.xyz:8083/ETV/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 ,Gopal Vaar
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uKYH0IM.png" tvg-logo-small="https://i.imgur.com/uKYH0IM.png" ,Geo Kahani
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/E8VwnK7.png" ,iON TV
-https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
-#EXTINF:-1 ,Iqra Bangla
-https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
+#EXTINF:0 ,Dutonto
+https://tvsen4.aynaott.com/durontotv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ,ZB Cartoon
+https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" ,Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 ,Maasranga Tv
@@ -53,8 +53,8 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist_800Kb.m3u8
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200012B8_20250729T185033SQUARE.png" tvg-logo-small="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200012B8_20250729T185033SQUARE.png" ,BBC Home & Garden
 https://jmp2.uk/stvp-CABD1200012B8
-#EXTINF:-1 ,ib tv usa
-http://208.86.19.13:81/509.stream/index.m3u8
+#EXTINF:-1 ,BBC CBeebies
+https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies-avc1_3000000=25-mp4a_128000_eng=13.m3u8
 #EXTINF:-1 tvg-id="QausainTV.ng" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA800001ZX_20250805T010110SQUARE.png" tvg-logo-small="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA800001ZX_20250805T010110SQUARE.png" ,BBC Kids
 https://jmp2.uk/stvp-CA800001ZX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" tvg-logo-small="https://i.ibb.co/yBYRgLt/20240813-063955.png" ,Rongeen Tv
@@ -73,10 +73,10 @@ https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=26
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #EXTINF:-1 ,TRT Truk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:0 ,Disney junior
-https://p11.magicplaces.eu/disneyjunior/tracks-v1a1/mono.m3u8?token=ac071e9b4d430f8266b95ffb997e23216752fd39-09eb3007f16a0d69419faa8412572ada-1760707312-1760707012&remote=no_check_ip
-#EXTINF:-1 ,BTV NEWS
-http://cdn.moviemazic.xyz:8083/BTVWorld/tracks-v1a1/mono.m3u8
+#EXTINF:0 ,Discovery asia
+https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_2499968=15-mp4a_256000_eng=12.m3u8
+#EXTINF:-1 ,wild earth
+https://wildearth-plex.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2500020SS_20250805T010248SQUARE.png" tvg-logo-small="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2500020SS_20250805T010248SQUARE.png" ,TED
 https://jmp2.uk/stvp-CABB2500020SS
 #EXTINF:-1 ,Peace TV English
@@ -112,7 +112,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 ,History Shorts
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991290
 #EXTINF:-1 ,Deen Tv
-https://ap02.iqplay.tv:8082/iqb8002/d33ntv/chunks.m3u8
+https://cd198.anystream.uk:8082/hls/d33ntv/2_1/index.m3u8
 #EXTINF:-1 ,Bangla Tv
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0VJYrn.png" tvg-logo-small="https://i.imgur.com/o0VJYrn.png" ,Hello Taste
@@ -121,12 +121,12 @@ https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 https://jmp2.uk/stvp-CABD1200040JI
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200010LE_20250729T185031SQUARE.png" tvg-logo-small="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200010LE_20250729T185031SQUARE.png" ,BBC Food
 https://jmp2.uk/stvp-CABD1200010LE
-#EXTINF:-1 ,channel 9
-http://cdn.moviemazic.xyz:8083/Channel9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,DD Bangla
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7F0P50N/GKBkm2e.png" tvg-logo-small="https://i.postimg.cc/X7F0P50N/GKBkm2e.png" ,Deshi Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 ,Palestine edu
-https://pbc.furrera.ps/PalestineEDU/tracks-v2a1/mono.m3u8
+#EXTINF:-1 ,rt
+https://wisewatchoott.wiseplayout.com/RT/HD1080/HD1080.m3u8
 #EXTINF:-1 ,Ashraq Documentary
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_source/chunks_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-logo-small="https://i.imgur.com/A1xzjOI.png" ,DW
@@ -139,8 +139,8 @@ https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/chunklist
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PMJ7Zmo.png" tvg-logo-small="https://i.imgur.com/PMJ7Zmo.png" ,Dubai Sports 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ugn0DWe.png" tvg-logo-small="https://i.imgur.com/ugn0DWe.png" ,Eman Channel
-https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:-1 ,Reuters
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/d3d21ef8-6891-4386-b4b6-03a29e924dd2/3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIeZMKT.png" tvg-logo-small="https://i.imgur.com/WIeZMKT.png" ,Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgtr.ee/images/2023/05/24/wQtWM.png" tvg-logo-small="https://imgtr.ee/images/2023/05/24/wQtWM.png" ,Korea Tv
@@ -149,8 +149,8 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rBftT9x.png" tvg-logo-small="https://i.imgur.com/rBftT9x.png" ,Oman Tv
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cvnps2J.jpg" tvg-logo-small="https://i.imgur.com/Cvnps2J.jpg" ,Takbeer Tv
-https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/473/lg/1db7f7/LG-Logo-PNG-100x100_v1.png" tvg-logo-small="https://img.platform.wurl.dev/channel/473/lg/1db7f7/LG-Logo-PNG-100x100_v1.png" ,Travelxp
+https://118e957020294ec4b4750823156a73f7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_TravelXP/playlist.m3u8
 #EXTINF:-1 ,TAIWAN plus live
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/ap-northeast-1/6282251407001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mk28uUy.png" tvg-logo-small="https://i.imgur.com/Mk28uUy.png" ,the pet collective
@@ -172,9 +172,9 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 #EXTINF:-1 tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png" tvg-logo-small="https://pash.ink/storage/uploads/JungleBook_Logo.png" ,Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 ,duck tv
-https://p11.magicplaces.eu/ducktvsd/tracks-v1a1/mono.m3u8?token=cdfd5f541486f9720b1a3ad578d8aca4c2dc3102-ce4ca3989d88665fb232864074582707-1760707388-1760707088&remote=no_check_ip
-#EXTINF:-1 ,Rtv
-http://cdn.moviemazic.xyz:8083/RTV/tracks-v1a1/mono.m3u8
+https://d2lqf4qmkxuiyv.cloudfront.net/DuckTVHDSAMS/DuckTVHDSAMS_720p_AAC.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1143/lg/d69ea1/LG-Logo-PNG-100x100_v2.png" tvg-logo-small="https://img.platform.wurl.dev/channel/1143/lg/d69ea1/LG-Logo-PNG-100x100_v2.png" ,WeatherSpy
+https://9d6abd53.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfV2VhdGhlclNweV9ITFM/playlist.m3u8
 #EXTINF:-1 ,ATN Bangla
 http://cdn.moviemazic.xyz:8083/ATNBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,History Time
@@ -185,14 +185,14 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadefreetv16-t
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00441-thedesignnetwor-thedesignnetwork-tablo/playlist.m3u8
 #EXTINF:-1 ,Forensic Files
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885516/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885516
-#EXTINF:-1 ,BBC Earth
-https://p11.magicplaces.eu/bbcearthsd/tracks-v1a1/mono.m3u8?token=bc738f151a5543e0fadf42955552a0c06b9377d4-816667ef40048b0db3808746a9a2bb02-1760707458-1760707158&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/696/lg/753db5/LG-Logo-PNG-100x100_v1.png" tvg-logo-small="https://img.platform.wurl.dev/channel/696/lg/753db5/LG-Logo-PNG-100x100_v1.png" ,Baby Shark
+https://8cc50be9a3f74e56a181c17133b8cdbb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-au_BabySharkTV/playlist.m3u8
 #EXTINF:-1 ,True History
 https://linear-188.frequency.stream/dist/vizio/188/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/01/31/1706733107gC1NOuIrru-632x395-jOa89KLb.jpeg" tvg-logo-small="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/01/31/1706733107gC1NOuIrru-632x395-jOa89KLb.jpeg" ,CrimeFlix
 https://jmp2.uk/str-5273.m3u8
-#EXTINF:-1 ,BBC First
-https://p11.magicplaces.eu/bbcfirsthd/tracks-v1a1/mono.m3u8?token=c583c7556f3ca0577396065f0d35a500c59b2a76-243597cb976457e042d06f429f0cc61b-1760708159-1760707859&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1501/lg/3fe535/LG-Logo-PNG-100x100_v2.png" tvg-logo-small="https://img.platform.wurl.dev/channel/1501/lg/3fe535/LG-Logo-PNG-100x100_v2.png" ,Autentic History
+https://c79f98a182af4cd79e0afe576c99cde9.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-au_AutenticHistory/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99982009/600x200.png?type=white_cropped" tvg-logo-small="https://image.xumo.com/v1/channels/channel/99982009/600x200.png?type=white_cropped" ,FilmRise True Crime
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99982009&ads.xumo_streamId=99982009&ads.channelId=99982009&ads.ad_tag_id=40040&ads.csid=lgchannels_at_filmrisetruecrimeca_ssai&ads.channelName=filmrisetruecrime_at&ads.xumo_contentName=filmrisetruecrimeca&ads.xumo_contentId=2070&ads.xumo_providerName=filmrisetruecrimeca&ads.xumo_providerId=2070&ads.content_category=IAB1-7&ads.content_genre=Crime%2520TV&ads.content_language=de&ads.content_rating=fsf-16&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 #EXTINF:0 tvg-logo="https://fdtvgunicornlogos.blob.core.windows.net/production/lg/Neue%20LG%20Channel%20Logos/LG%20Channel%20logo%20image_Just%20Cooking.png" tvg-logo-small="https://fdtvgunicornlogos.blob.core.windows.net/production/lg/Neue%20LG%20Channel%20Logos/LG%20Channel%20logo%20image_Just%20Cooking.png" ,Just Cooking
