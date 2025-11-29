@@ -98,7 +98,7 @@ http://cdn.moviemazic.xyz:8083/BanglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Tastemade Home
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome-tablo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png" tvg-logo-small="https://ui.cgtn.com/static/ng/resource/images/logo_title.png" ,CGTN Documentary
-https://english-livetx.cgtn.com/hls/yypdjlctzb_sd.m3u8
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 #EXTINF:-1 ,NHK world
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/AccuWeather_2021.svg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/5/5d/AccuWeather_2021.svg" ,accu weather
@@ -109,10 +109,10 @@ https://dbrb49pjoymg4.cloudfront.net/10001/9995117/hls/master.m3u8?ads.xumo_chan
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 ,History Shorts
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991290
-#EXTINF:-1 ,Deen Tv
-https://cd198.anystream.uk:8082/hls/d33ntv/2_1/index.m3u8
-#EXTINF:-1 ,Bangla Tv
-https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
+#EXTINF:-1 ,CGTN
+https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
+#EXTINF:-1 ,Channel 24
+http://cdn.moviemazic.xyz:8083/Feedget/CH24_18/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0VJYrn.png" tvg-logo-small="https://i.imgur.com/o0VJYrn.png" ,Hello Taste
 https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992249/600x200.png?type=white_cropped" tvg-logo-small="https://image.xumo.com/v1/channels/channel/99992249/600x200.png?type=white_cropped" ,Unsolved Mysteries
@@ -135,16 +135,14 @@ http://cdn.moviemazic.xyz:8083/JamunaTV/tracks-v1a1/mono.m3u8
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/chunklist_w146883357_b283000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" tvg-logo-small="https://i.imgur.com/Asu5pE9.png" ,Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PMJ7Zmo.png" tvg-logo-small="https://i.imgur.com/PMJ7Zmo.png" ,Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/logo-2-1/58346729-6cb5-458f-9d72-b337404a4a86-width400-height200.png" tvg-logo-small="https://images-2.rakuten.tv/storage/global-live-channel/translation/logo-2-1/58346729-6cb5-458f-9d72-b337404a4a86-width400-height200.png" ,Africanews
+https://africanews-eng-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNTg1YmYwNjgtNDUwYS00YTUzLWIwZTgtYTgxZWQxZjQ5N2M4IiwibWt0IjoiZGUiLCJjaCI6NjU4NCwicHRmIjoyfQ==/26036/africanews-en.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=[APP_STOREURL]&ads.app_version=[APP_VERSION]&ads.brand_name=[DEVICE_MAKE]&ads.content_livestream=1&ads.device_lmt=[LMT]&ads.device_model=[DEVICE_MODEL]&ads.did=[IFA]&ads.fck=[FCK]&ads.gdpr_consent=[GDPR_CONSENT]&ads.givn=[NONCE]&ads.ifa_type=[IFA_TYPE]&ads.market=de&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=africanews-eng_de&ads.rtv_content_id=6584&ads.rtv_language=en&ads.viewsize=[VIEWSIZE]&channel_id=6584&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIeZMKT.png" tvg-logo-small="https://i.imgur.com/WIeZMKT.png" ,Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgtr.ee/images/2023/05/24/wQtWM.png" tvg-logo-small="https://imgtr.ee/images/2023/05/24/wQtWM.png" ,Korea Tv
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Nourtv_logo.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/8/8c/Nourtv_logo.jpg" ,Nour Tv
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rBftT9x.png" tvg-logo-small="https://i.imgur.com/rBftT9x.png" ,Oman Tv
-https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/473/lg/1db7f7/LG-Logo-PNG-100x100_v1.png" tvg-logo-small="https://img.platform.wurl.dev/channel/473/lg/1db7f7/LG-Logo-PNG-100x100_v1.png" ,Travelxp
 https://118e957020294ec4b4750823156a73f7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_TravelXP/playlist.m3u8
 #EXTINF:-1 ,TAIWAN plus live
