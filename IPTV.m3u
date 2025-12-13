@@ -5,8 +5,8 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=mylittle
 https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8
 #EXTINF:-1 ,ntv
 http://cdn.moviemazic.xyz:8083/NTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Peace Tv Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_104/lg_channels/img/channel_logo/default/channel_logo.png?ver=20230915160427" tvg-logo-small="https://cdn88-accio.its-newid.net/channel/newid_104/lg_channels/img/channel_logo/default/channel_logo.png?ver=20230915160427" ,Cocobi
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cocobi&channel_id=newid_104&mpf=c810d3e8-39af1962-43a8b8ad&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=76eefc31-568cecc4-dd2c7662-21fc7668&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" tvg-logo="https://i.imgur.com/4B5FvmX.png" tvg-logo-small="https://i.imgur.com/4B5FvmX.png" ,Palestine Tv
 https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Gtv
