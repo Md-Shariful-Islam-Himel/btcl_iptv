@@ -20,7 +20,7 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8
 #EXTINF:-1 tvg-logo="https://d2y67h7360vjl7.cloudfront.net/NatureTime_LG_EMEA_ChannelAssetLogo.png" tvg-logo-small="https://d2y67h7360vjl7.cloudfront.net/NatureTime_LG_EMEA_ChannelAssetLogo.png" ,Nature Time
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01515-blueskyeenterta-natutetimeemea-lgbe/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/858/lg/a0ee4b/LG-Logo-PNG-100x100_v1.png" tvg-logo-small="https://img.platform.wurl.dev/channel/858/lg/a0ee4b/LG-Logo-PNG-100x100_v1.png" ,Gusto tv
-https://429f38bc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfR3VzdG9UVl9ITFM/playlist.m3u8
+https://742a5e35.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfR3VzdG9UVl9ITFM/playlist.m3u8
 #EXTINF:-1 ,Batul the Great
 https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/e3cYtrb.jpg" tvg-logo-small="https://i.imgur.com/e3cYtrb.jpg" ,CNA
