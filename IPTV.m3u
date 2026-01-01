@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_118/lg_channels/img/channel_logo/default/channel_logo.png" tvg-logo-small="https://cdn88-accio.its-newid.net/channel/newid_118/lg_channels/img/channel_logo/default/channel_logo.png" ,My Little Pet
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=mylittlepet&channel_id=newid_118&mpf=d8bdae82-39af1962-ae9b8e3d&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=cef4a4e5-1469be45-8c2ae6ad-631924e9&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" tvg-logo-small="https://i.imgur.com/fRivJD3.jpg" ,Al Jazeera
-https://livegeoroueu.akamaized.net/28072023/smil:aljazeera.smil/chunklist_b1928000.m3u8
+https://live-hls-web-ajm-bp.thehlive.com/AJM/03.m3u8
 #EXTINF:-1 ,ntv
 http://cdn.moviemazic.xyz:8083/NTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_104/lg_channels/img/channel_logo/default/channel_logo.png?ver=20230915160427" tvg-logo-small="https://cdn88-accio.its-newid.net/channel/newid_104/lg_channels/img/channel_logo/default/channel_logo.png?ver=20230915160427" ,Cocobi
@@ -43,8 +43,6 @@ https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.m3u8
 http://cdn.moviemazic.xyz:8083/Maasranga/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRPcOi0.png" tvg-logo-small="https://i.imgur.com/PRPcOi0.png" ,Makka Tv
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1 ,my tv
-http://cdn.moviemazic.xyz:8083/MyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,rt documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_800Kb.m3u8
 #EXTINF:-1 ,NHK World Premium
@@ -113,8 +111,6 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 #EXTINF:-1 ,Channel 24
 http://cdn.moviemazic.xyz:8083/Feedget/CH24_18/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o0VJYrn.png" tvg-logo-small="https://i.imgur.com/o0VJYrn.png" ,Hello Taste
-https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992249/600x200.png?type=white_cropped" tvg-logo-small="https://image.xumo.com/v1/channels/channel/99992249/600x200.png?type=white_cropped" ,Unsolved Mysteries
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992249&ads.xumo_streamId=99992249&ads.channelId=99992249&ads.ad_tag_id=10505&ads.csid=lgchannels_ca_filmriseunsolvedmysteries_ssai&ads.channelName=filmriseunsolvedmysteries_ca&ads.xumo_contentName=FilmRise&ads.xumo_contentId=260&ads.xumo_providerName=FilmRise&ads.xumo_providerId=260&ads.content_category=IAB1-7&ads.content_genre=Crime%2520TV&ads.content_language=en&ads.content_rating=TV-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200010LE_20250729T185031SQUARE.png" tvg-logo-small="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200010LE_20250729T185031SQUARE.png" ,BBC Food
