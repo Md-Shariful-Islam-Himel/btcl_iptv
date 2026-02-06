@@ -15,8 +15,8 @@ http://cdn.moviemazic.xyz:8083/live-5/tracks-v1a1/mono.m3u8
 http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
 #EXTINF:-1 ,Boishakhi Tv
 http://cdn.moviemazic.xyz:8083/BijoyTV/tracks-v1a1/mono.m3u8?token=518b3768ea02a32bc7dc7c2f0dcfc2e0a90ed76e-26c6a2512d341142c156bbbb68917649-1770399127-1770388327
-#EXTINF:-1 ,rta
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/itv/channels/1224-400x200.png" tvg-logo-small="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/itv/channels/1224-400x200.png" ,Space Live
+https://linear-1224.frequency.stream/dist/lg-ie/1224/hls/master/playlist.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=[APP_NAME]&ads.app_store_url=[APP_STOREURL]&ads.gdpr=[GDPR]&ads.consent=[GDPR_CONSENT]&ads.us_privacy=[US_PRIVACY]&ads.lmt=[LMT]&ads.device_make=[DEVICE_MAKE]&ads.device_model=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifa_type=[IFA_TYPE]&ads.device_id=[DEVICE_ID]&ads.viewsize=[VIEWSIZE]&ads.fck=[FCK]&ads.pcs=[PCS]&ads.nonce=[NONCE]
 #EXTINF:-1 tvg-logo="https://d2y67h7360vjl7.cloudfront.net/NatureTime_LG_EMEA_ChannelAssetLogo.png" tvg-logo-small="https://d2y67h7360vjl7.cloudfront.net/NatureTime_LG_EMEA_ChannelAssetLogo.png" ,Nature Time
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01515-blueskyeenterta-natutetimeemea-lgbe/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/858/lg/a0ee4b/LG-Logo-PNG-100x100_v1.png" tvg-logo-small="https://img.platform.wurl.dev/channel/858/lg/a0ee4b/LG-Logo-PNG-100x100_v1.png" ,Gusto tv
@@ -79,8 +79,8 @@ http://cdn.moviemazic.xyz:8083/Feedget/rtv_nk_34/tracks-v1a1/mono.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/a7a15769f0275c0ea9b2064b95637cfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1716479060920_Real_Disaster-HUD.png" tvg-logo-small="https://images.sr.roku.com/idType/roku/context/trc/id/a7a15769f0275c0ea9b2064b95637cfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1716479060920_Real_Disaster-HUD.png" ,Real Disaster Channel
 https://jmp2.uk/rok-a7a15769f0275c0ea9b2064b95637cfd.m3u8
-#EXTINF:-1 ,TRT World
-https://tv-trtworld.medya.trt.com.tr/master_480.m3u8
+#EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/rt_channel/newid_rt032/lg_channels/img/channel_logo/default/channel_logo.png" tvg-logo-small="https://cdn88-accio.its-newid.net/rt_channel/newid_rt032/lg_channels/img/channel_logo/default/channel_logo.png" ,YTN
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=ytn&channel_id=newid_rt032&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=fb7bc49a-a2090aa9-850d4824-b061f466&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 ,bonappetit
 https://bonappetit-samsung.amagi.tv/720p-vtt/index.m3u8
 #EXTINF:-1 ,Jordan Kitchen
