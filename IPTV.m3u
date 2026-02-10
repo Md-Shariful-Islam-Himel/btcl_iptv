@@ -49,10 +49,8 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist_800Kb.m3u8
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200012B8_20250729T185033SQUARE.png" tvg-logo-small="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200012B8_20250729T185033SQUARE.png" ,BBC Home & Garden
 https://jmp2.uk/stvp-CABD1200012B8
-#EXTINF:-1 tvg-logo="https://b4uplay.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-15-2025-01_36_16-PM-1-200x300.png" tvg-logo-small="https://b4uplay.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-15-2025-01_36_16-PM-1-200x300.png" ,Shaun The Sheep
-https://d2r2is7i9uumbe.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xlooshm8xqxh8/1564c464-74d5-4a71-ac23-612ada5a21ce/0.m3u8
-#EXTINF:-1 tvg-id="QausainTV.ng" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA800001ZX_20250805T010110SQUARE.png" tvg-logo-small="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA800001ZX_20250805T010110SQUARE.png" ,BBC Kids
-https://jmp2.uk/stvp-CA800001ZX
+#EXTINF:-1 tvg-logo="https://d2aqhkzukipl76.cloudfront.net/CARTOON-CLASSICS-ENG-DASH/logo/400x200.jpg" tvg-logo-small="https://d2aqhkzukipl76.cloudfront.net/CARTOON-CLASSICS-ENG-DASH/logo/400x200.jpg" ,Cartoon Tv
+https://vglivessai.akamaized.net/ptnr-lg/title-Cartoon_classics-LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d37fc389-b528-415c-9015-b6f788857df0/manifest.m3u8?ads.deviceid=[DEVICE_ID]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.lat=[LMT]&ads.donotsell=[DNT]&ads.country=[COUNTRY]&ads.device_make=[DEVICE_MAKE]&ads.device_model=[DEVICE_MODEL]&ads.device_type=[DEVICE_TYPE]&ua=[UA]&ip=[IP]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" tvg-logo-small="https://i.ibb.co/yBYRgLt/20240813-063955.png" ,Rongeen Tv
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" tvg-logo-small="https://i.ibb.co/4jQHgVj/download-5.png" ,RTA Sports
