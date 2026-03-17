@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_118/lg_channels/img/channel_logo/default/channel_logo.png" tvg-logo-small="https://cdn88-accio.its-newid.net/channel/newid_118/lg_channels/img/channel_logo/default/channel_logo.png" ,My Little Pet
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=mylittlepet&channel_id=newid_118&mpf=d8bdae82-39af1962-ae9b8e3d&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=cef4a4e5-1469be45-8c2ae6ad-631924e9&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" tvg-logo-small="https://i.imgur.com/fRivJD3.jpg" ,Al Jazeera
-https://live-hls-web-ajm-bp.thehlive.com/AJM/03.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 ,nagorik tv
 http://cdn.moviemazic.xyz:8083/NagorikTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_104/lg_channels/img/channel_logo/default/channel_logo.png?ver=20230915160427" tvg-logo-small="https://cdn88-accio.its-newid.net/channel/newid_104/lg_channels/img/channel_logo/default/channel_logo.png?ver=20230915160427" ,Cocobi
@@ -71,8 +71,8 @@ https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_24
 https://wildearth-plex.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 ,RTV
 http://cdn.moviemazic.xyz:8083/Feedget/rtv_nk_34/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Peace TV English
-https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 ,Peace TV Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 ,Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/rt_channel/newid_rt032/lg_channels/img/channel_logo/default/channel_logo.png" tvg-logo-small="https://cdn88-accio.its-newid.net/rt_channel/newid_rt032/lg_channels/img/channel_logo/default/channel_logo.png" ,YTN
@@ -115,8 +115,8 @@ http://cdn.moviemazic.xyz:8083/TSportsHD/tracks-v1a1/mono.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7F0P50N/GKBkm2e.png" tvg-logo-small="https://i.postimg.cc/X7F0P50N/GKBkm2e.png" ,Deshi Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 ,rt
-https://wisewatchoott.wiseplayout.com/RT/HD1080/HD1080.m3u8
+#EXTINF:-1 ,somoy
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
 #EXTINF:-1 ,ntv
 http://cdn.moviemazic.xyz:8083/Feedget/NTVLive1_28/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-logo-small="https://i.imgur.com/A1xzjOI.png" ,DW
@@ -179,3 +179,17 @@ https://linear-188.frequency.stream/dist/vizio/188/hls/master/playlist.m3u8
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99982009&ads.xumo_streamId=99982009&ads.channelId=99982009&ads.ad_tag_id=40040&ads.csid=lgchannels_at_filmrisetruecrimeca_ssai&ads.channelName=filmrisetruecrime_at&ads.xumo_contentName=filmrisetruecrimeca&ads.xumo_contentId=2070&ads.xumo_providerName=filmrisetruecrimeca&ads.xumo_providerId=2070&ads.content_category=IAB1-7&ads.content_genre=Crime%2520TV&ads.content_language=de&ads.content_rating=fsf-16&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 #EXTINF:0 tvg-logo="https://fdtvgunicornlogos.blob.core.windows.net/production/lg/Neue%20LG%20Channel%20Logos/LG%20Channel%20logo%20image_Just%20Cooking.png" tvg-logo-small="https://fdtvgunicornlogos.blob.core.windows.net/production/lg/Neue%20LG%20Channel%20Logos/LG%20Channel%20logo%20image_Just%20Cooking.png" ,Just Cooking
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/eec2b32c-4ee1-11ed-8aff-f91c9dc0ec5c/0/master.m3u8?country=at&vendor=lg
+#EXTINF:-1 ,ATN news
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706-audio_113362_eng=113200-video=2202800.m3u8
+#EXTINF:-1 ,Bengali Beats
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 ,Maasranga Television
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 ,ntv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 ,accuweather
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 ,Madina Live
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 ,Mizanur Rahman Azhari
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
