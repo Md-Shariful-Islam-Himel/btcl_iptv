@@ -25,20 +25,20 @@ https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8?@amarnettv.live
 #EXTINF:-1 ,Deepto Tv
 http://cdn.moviemazic.xyz:8083/DeeptoTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Independent tv
-http://cdn.moviemazic.xyz:8083/IndependentTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,DBC news
-http://cdn.moviemazic.xyz:8083/DBCNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ATN Music
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/live-orgin/atnmusic.stream/chunks.m3u8
+#EXTINF:-1 ,BTV Chattagram
+https://bozztv.com/rongo/rongo-BTVChattagram/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Gopal Vaar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uKYH0IM.png" tvg-logo-small="https://i.imgur.com/uKYH0IM.png" ,Geo Kahani
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:0 ,Dutonto
-https://tvsen4.aynaott.com/durontotv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ,Music Bangla
+http://vmi3039524.contaboserver.net:5050/music/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZB Cartoon
 https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Maasranga Tv
-http://cdn.moviemazic.xyz:8083/Maasranga/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Sangshad TV
+https://bozztv.com/rongo/rongo-SangsadTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRPcOi0.png" tvg-logo-small="https://i.imgur.com/PRPcOi0.png" ,Makka Tv
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 ,rt documentary
@@ -47,18 +47,18 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist_800Kb.m3u8
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200012B8_20250729T185033SQUARE.png" tvg-logo-small="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200012B8_20250729T185033SQUARE.png" ,BBC Home & Garden
 https://jmp2.uk/stvp-CABD1200012B8
-#EXTINF:-1 tvg-logo="https://d2aqhkzukipl76.cloudfront.net/CARTOON-CLASSICS-ENG-DASH/logo/400x200.jpg" tvg-logo-small="https://d2aqhkzukipl76.cloudfront.net/CARTOON-CLASSICS-ENG-DASH/logo/400x200.jpg" ,Cartoon Tv
-https://vglivessai.akamaized.net/ptnr-lg/title-Cartoon_classics-LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d37fc389-b528-415c-9015-b6f788857df0/manifest.m3u8?ads.deviceid=[DEVICE_ID]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.lat=[LMT]&ads.donotsell=[DNT]&ads.country=[COUNTRY]&ads.device_make=[DEVICE_MAKE]&ads.device_model=[DEVICE_MODEL]&ads.device_type=[DEVICE_TYPE]&ua=[UA]&ip=[IP]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 ,DISCOVER PAKISTAN
+https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/q_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" tvg-logo-small="https://i.ibb.co/yBYRgLt/20240813-063955.png" ,Rongeen Tv
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" tvg-logo-small="https://i.ibb.co/4jQHgVj/download-5.png" ,RTA Sports
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+#EXTINF:-1 ,Harpal Geo
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png" tvg-logo-small="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png" ,BTV
 http://cdn.moviemazic.xyz:8083/BTV-National/tracks-v1a1/mono.m3u8?token=674694d81ba3e77cccc1a8e7fe4aa883e31127ac-9ed225befccf6e0a5e8f996f3d7567bf-1770399181-1770388381
 #EXTINF:-1 ,Craftsy Tv
 https://linear-492.frequency.stream/dist/vidaa/492/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4972
-#EXTINF:-1 ,Somoy
-http://cdn.moviemazic.xyz:8083/SomoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Food Food
+https://mumt03.tangotv.in/FOODFOOD/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oyIMxzM.png" tvg-logo-small="https://i.imgur.com/oyIMxzM.png" ,toon Google
 https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=261205&device_type=tv&partner=hisense_syndication&connection=wifi&package_format=vidaa_feed&max_bitrate=4500&preferred_bitrate=1800&custom_param_0=&custom_param_1=tv&custom_param_2=&custom_param_3=&custom_param_4=hisense_syndication&custom_param_5=html5&custom_param_6=North%2520America&ads.vidaa_ads_param=1188363858&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=1735
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" ,TRT 1
@@ -73,16 +73,16 @@ https://wildearth-plex.amagi.tv/masterR720P.m3u8
 http://cdn.moviemazic.xyz:8083/Feedget/rtv_nk_34/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Peace TV English
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/a7a15769f0275c0ea9b2064b95637cfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1716479060920_Real_Disaster-HUD.png" tvg-logo-small="https://images.sr.roku.com/idType/roku/context/trc/id/a7a15769f0275c0ea9b2064b95637cfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1716479060920_Real_Disaster-HUD.png" ,Real Disaster Channel
-https://jmp2.uk/rok-a7a15769f0275c0ea9b2064b95637cfd.m3u8
+#EXTINF:-1 ,Safari TV
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/rt_channel/newid_rt032/lg_channels/img/channel_logo/default/channel_logo.png" tvg-logo-small="https://cdn88-accio.its-newid.net/rt_channel/newid_rt032/lg_channels/img/channel_logo/default/channel_logo.png" ,YTN
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=ytn&channel_id=newid_rt032&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=fb7bc49a-a2090aa9-850d4824-b061f466&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 ,bonappetit
 https://bonappetit-samsung.amagi.tv/720p-vtt/index.m3u8
 #EXTINF:-1 ,Jordan Kitchen
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist/4.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4JPD5hztRxjfYiR5c1wNlZAY6sZiaZAkkZ6Ka9arndt2pZXDtHg_VuJI&s=10" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4JPD5hztRxjfYiR5c1wNlZAY6sZiaZAkkZ6Ka9arndt2pZXDtHg_VuJI&s=10" ,ATN News
-http://cdn.moviemazic.xyz:8083/ATNNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Independent Tv
+http://cdn.moviemazic.xyz:8083/Feedget/indopendet_nk_33/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/wedobigstories_Logo.png" tvg-logo-small="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/wedobigstories_Logo.png" ,wedo big stories
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigstories-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A5ui53C.png" tvg-logo-small="https://i.imgur.com/A5ui53C.png" ,Channel i
@@ -117,12 +117,12 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/in
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 ,rt
 https://wisewatchoott.wiseplayout.com/RT/HD1080/HD1080.m3u8
-#EXTINF:-1 ,Ashraq Documentary
-https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_source/chunks_dvr.m3u8
+#EXTINF:-1 ,ntv
+http://cdn.moviemazic.xyz:8083/Feedget/NTVLive1_28/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-logo-small="https://i.imgur.com/A1xzjOI.png" ,DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 ,Jamuna Tv
-http://cdn.moviemazic.xyz:8083/JamunaTV/tracks-v1a1/mono.m3u8
+http://cdn.moviemazic.xyz:8083/Feedget/JAMUNATV_27/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Hobby Maker
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/chunklist_w146883357_b283000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" tvg-logo-small="https://i.imgur.com/Asu5pE9.png" ,Arirang
@@ -143,8 +143,8 @@ http://cdn.moviemazic.xyz:8083/Feedget/ekattor_nk_19/tracks-v1a1/mono.m3u8
 https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CvMKrn6.png" tvg-logo-small="https://i.imgur.com/CvMKrn6.png" ,This is bulgeria
 https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N5RB4sp.png" tvg-logo-small="https://i.imgur.com/N5RB4sp.png" ,Qatar tv
-https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:-1 ,animal planet
+http://cdn.moviemazic.xyz:8083/Feedget/AnimalPlanetHD_12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oI8g396.png" tvg-logo-small="https://i.imgur.com/oI8g396.png" ,Qazaqstan TV International
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 ,Iqra Arabic
@@ -161,8 +161,8 @@ https://d6b383jzkrtyn.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992301
 https://edge1358.filmon.com/live/6227.high.stream/480p.m3u8
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1143/lg/d69ea1/LG-Logo-PNG-100x100_v2.png" tvg-logo-small="https://img.platform.wurl.dev/channel/1143/lg/d69ea1/LG-Logo-PNG-100x100_v2.png" ,WeatherSpy
 https://9d6abd53.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfV2VhdGhlclNweV9ITFM/playlist.m3u8
-#EXTINF:-1 ,ATN Bangla
-http://cdn.moviemazic.xyz:8083/ATNBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,National Gergraphic
+http://cdn.moviemazic.xyz:8083/Feedget/National-Geography/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992306/600x200.png?type=white_cropped" tvg-logo-small="https://image.xumo.com/v1/channels/channel/99992306/600x200.png?type=white_cropped" ,True Crime
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992306&ads.xumo_streamId=99992306&ads.channelId=99992306&ads.ad_tag_id=20164&ads.csid=lgchannels_ca_filmrisetruecrime_ssai&ads.channelName=filmrisetruecrime_ca&ads.xumo_contentName=FilmRiseCA&ads.xumo_contentId=1082&ads.xumo_providerName=FilmRiseCA&ads.xumo_providerId=1082&ads.content_category=IAB1-7&ads.content_genre=entertainment&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 #EXTINF:-1 ,News 24
