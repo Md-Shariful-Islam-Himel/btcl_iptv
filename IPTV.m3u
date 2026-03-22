@@ -31,22 +31,20 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-vid
 https://bozztv.com/rongo/rongo-BTVChattagram/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Gopal Vaar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uKYH0IM.png" tvg-logo-small="https://i.imgur.com/uKYH0IM.png" ,Geo Kahani
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 ,ARY Digital
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_1.m3u8
 #EXTINF:-1 ,Music Bangla
 http://vmi3039524.contaboserver.net:5050/music/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZB Cartoon
 https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Sangshad TV
-https://bozztv.com/rongo/rongo-SangsadTV/tracks-v1a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/1713-audio_113432_eng=113200-video=2202800.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRPcOi0.png" tvg-logo-small="https://i.imgur.com/PRPcOi0.png" ,Makka Tv
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 ,rt documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_800Kb.m3u8
 #EXTINF:-1 ,NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200012B8_20250729T185033SQUARE.png" tvg-logo-small="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200012B8_20250729T185033SQUARE.png" ,BBC Home & Garden
-https://jmp2.uk/stvp-CABD1200012B8
 #EXTINF:-1 ,DISCOVER PAKISTAN
 https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/q_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" tvg-logo-small="https://i.ibb.co/yBYRgLt/20240813-063955.png" ,Rongeen Tv
@@ -61,8 +59,10 @@ https://linear-492.frequency.stream/dist/vidaa/492/hls/master/playlist.m3u8?ads.
 https://mumt03.tangotv.in/FOODFOOD/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oyIMxzM.png" tvg-logo-small="https://i.imgur.com/oyIMxzM.png" ,toon Google
 https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=261205&device_type=tv&partner=hisense_syndication&connection=wifi&package_format=vidaa_feed&max_bitrate=4500&preferred_bitrate=1800&custom_param_0=&custom_param_1=tv&custom_param_2=&custom_param_3=&custom_param_4=hisense_syndication&custom_param_5=html5&custom_param_6=North%2520America&ads.vidaa_ads_param=1188363858&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=1735
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" ,TRT 1
-https://d1u68oyra9spme.cloudfront.net/master.m3u8
+#EXTINF:-1 ,TRT World
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_1.m3u8
+#EXTINF:-1 ,BBC kids
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_1.m3u8
 #EXTINF:-1 ,TRT Truk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:0 ,Discovery asia
@@ -72,7 +72,7 @@ https://wildearth-plex.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 ,RTV
 http://cdn.moviemazic.xyz:8083/Feedget/rtv_nk_34/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Peace TV Bangla
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_1.m3u8
 #EXTINF:-1 ,Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/rt_channel/newid_rt032/lg_channels/img/channel_logo/default/channel_logo.png" tvg-logo-small="https://cdn88-accio.its-newid.net/rt_channel/newid_rt032/lg_channels/img/channel_logo/default/channel_logo.png" ,YTN
@@ -110,7 +110,7 @@ http://cdn.moviemazic.xyz:8083/Feedget/CH24_18/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992249/600x200.png?type=white_cropped" tvg-logo-small="https://image.xumo.com/v1/channels/channel/99992249/600x200.png?type=white_cropped" ,Unsolved Mysteries
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992249&ads.xumo_streamId=99992249&ads.channelId=99992249&ads.ad_tag_id=10505&ads.csid=lgchannels_ca_filmriseunsolvedmysteries_ssai&ads.channelName=filmriseunsolvedmysteries_ca&ads.xumo_contentName=FilmRise&ads.xumo_contentId=260&ads.xumo_providerName=FilmRise&ads.xumo_providerId=260&ads.content_category=IAB1-7&ads.content_genre=Crime%2520TV&ads.content_language=en&ads.content_rating=TV-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 #EXTINF:-1 ,T Sports
-http://cdn.moviemazic.xyz:8083/TSportsHD/tracks-v1a1/mono.m3u8
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7F0P50N/GKBkm2e.png" tvg-logo-small="https://i.postimg.cc/X7F0P50N/GKBkm2e.png" ,Deshi Tv
@@ -120,15 +120,15 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-vid
 #EXTINF:-1 ,ntv
 http://cdn.moviemazic.xyz:8083/Feedget/NTVLive1_28/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-logo-small="https://i.imgur.com/A1xzjOI.png" ,DW
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 #EXTINF:-1 ,Jamuna Tv
 http://cdn.moviemazic.xyz:8083/Feedget/JAMUNATV_27/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Hobby Maker
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/chunklist_w146883357_b283000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" tvg-logo-small="https://i.imgur.com/Asu5pE9.png" ,Arirang
 https://amg02040-lguplus-amg02040c12-lg-jp-10637.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02040-lguplus-arirang-lgjp/playlist.m3u8
-#EXTINF:-1 ,BBC CBBC
-https://edge1358.filmon.com/live/113.high.stream/480p.m3u8
+#EXTINF:-1 ,BBC Four
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIeZMKT.png" tvg-logo-small="https://i.imgur.com/WIeZMKT.png" ,Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgtr.ee/images/2023/05/24/wQtWM.png" tvg-logo-small="https://imgtr.ee/images/2023/05/24/wQtWM.png" ,Korea Tv
@@ -184,10 +184,48 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706-audio_113362_eng=113200-vid
 #EXTINF:-1 ,Bengali Beats
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 ,Maasranga Television
-https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-video=1998800.m3u8
-#EXTINF:-1 ,ntv
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=2202800.m3u8
+#EXTINF:-1 ,channel i
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=2202800.m3u8
 #EXTINF:-1 ,SATV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720-audio_113502_eng=113200-video=3224800.m3u8
 #EXTINF:-1 ,star news
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=2407200.m3u8
+#EXTINF:-1 ,bijoy tv
+https://bozztv.com/rongo/rongo-BijoyTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,boishakhi tv
+https://bozztv.com/rongo/rongo-BoishakhiTV/tracks-v2a1/mono.m3u8
+#EXTINF:-1 ,channel S
+https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8?nimblesessionid=1012991895
+#EXTINF:-1 ,DBC news
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-video=3224800.m3u8
+#EXTINF:-1 ,jago news 24
+https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
+#EXTINF:-1 ,nexus television
+https://bozztv.com/rongo/rongo-NEXUSTVENC1/tracks-v2a1/mono.m3u8
+#EXTINF:-1 ,rajdhani tv
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+#EXTINF:-1 ,Hum TV
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_1.m3u8
+#EXTINF:-1 ,Tom & Jerry
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_1.m3u8
+#EXTINF:-1 ,knowledge network
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8
+#EXTINF:-1 ,azan tv
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_1.m3u8
+#EXTINF:-1 ,quran tv
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_1.m3u8
+#EXTINF:-1 ,ilm tv
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_1.m3u8
+#EXTINF:-1 ,Discovery HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_1.m3u8
+#EXTINF:-1 ,rt news
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_1.m3u8
+#EXTINF:-1 ,Channel S uk
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_1.m3u8
+#EXTINF:-1 ,ion tv
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_1.m3u8
+#EXTINF:-1 ,ntv europe
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_1.m3u8
+#EXTINF:-1 ,TVONE
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_1.m3u8
