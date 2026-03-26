@@ -32,9 +32,7 @@ https://bozztv.com/rongo/rongo-BTVChattagram/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Gopal Vaar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,ARY Digital
-https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 ,Music Bangla
-http://vmi3039524.contaboserver.net:5050/music/tracks-v1a1/mono.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,ZB Cartoon
 https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Sangshad TV
@@ -70,7 +68,7 @@ https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_24
 #EXTINF:-1 ,wild earth
 https://wildearth-plex.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 ,RTV
-http://cdn.moviemazic.xyz:8083/Feedget/rtv_nk_34/tracks-v1a1/mono.m3u8
+https://bozztv.com/rongo/rongo-RTV/tracks-v2a1/mono.m3u8
 #EXTINF:-1 ,Peace TV Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_1.m3u8
 #EXTINF:-1 ,Safari TV
@@ -118,7 +116,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 ,somoy
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
 #EXTINF:-1 ,ntv
-http://cdn.moviemazic.xyz:8083/Feedget/NTVLive1_28/tracks-v1a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=2202800.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-logo-small="https://i.imgur.com/A1xzjOI.png" ,DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 #EXTINF:-1 ,Jamuna Tv
@@ -166,7 +164,7 @@ http://cdn.moviemazic.xyz:8083/Feedget/National-Geography/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992306/600x200.png?type=white_cropped" tvg-logo-small="https://image.xumo.com/v1/channels/channel/99992306/600x200.png?type=white_cropped" ,True Crime
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992306&ads.xumo_streamId=99992306&ads.channelId=99992306&ads.ad_tag_id=20164&ads.csid=lgchannels_ca_filmrisetruecrime_ssai&ads.channelName=filmrisetruecrime_ca&ads.xumo_contentName=FilmRiseCA&ads.xumo_contentId=1082&ads.xumo_providerName=FilmRiseCA&ads.xumo_providerId=1082&ads.content_category=IAB1-7&ads.content_genre=entertainment&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 #EXTINF:-1 ,News 24
-http://cdn.moviemazic.xyz:8083/Feedget/NEWS24LIVE_23/tracks-v1a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-video=3224800.m3u8
 #EXTINF:-1 ,Cartoon Network
 http://cdn.moviemazic.xyz:8083/Feedget/CartoonNetwork_6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Forensic Files
@@ -191,8 +189,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720-audio_113502_eng=113200-video=3224800.m3u8
 #EXTINF:-1 ,star news
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=2407200.m3u8
-#EXTINF:-1 ,T sports
-https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,boishakhi tv
 https://bozztv.com/rongo/rongo-BoishakhiTV/tracks-v2a1/mono.m3u8
 #EXTINF:-1 ,channel S
@@ -205,8 +201,8 @@ https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream
 https://bozztv.com/rongo/rongo-NEXUSTVENC1/tracks-v2a1/mono.m3u8
 #EXTINF:-1 ,rajdhani tv
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
-#EXTINF:-1 ,Hum TV
-https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ,Hum Sitaray
+https://live.thebosstv.com:30443/dwlive/HUM-SITARAY/chunks.m3u8
 #EXTINF:-1 ,knowledge network
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index_2.m3u8
 #EXTINF:-1 ,azan tv
