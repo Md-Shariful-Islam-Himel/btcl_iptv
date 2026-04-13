@@ -27,8 +27,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m
 http://cdn.moviemazic.xyz:8083/DeeptoTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=1998800.m3u8
-#EXTINF:-1 ,BTV Chattagram
-https://bozztv.com/rongo/rongo-BTVChattagram/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Gopal Vaar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,ARY Digital
@@ -67,8 +65,6 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_2499968=15-mp4a_256000_eng=12.m3u8
 #EXTINF:-1 ,wild earth
 https://wildearth-plex.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 ,RTV
-https://bozztv.com/rongo/rongo-RTV/tracks-v2a1/mono.m3u8
 #EXTINF:-1 ,Peace TV Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_1.m3u8
 #EXTINF:-1 ,Safari TV
@@ -173,8 +169,6 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9998200
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/eec2b32c-4ee1-11ed-8aff-f91c9dc0ec5c/0/master.m3u8?country=at&vendor=lg
 #EXTINF:-1 ,ATN news
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706-audio_113362_eng=113200-video=2202800.m3u8
-#EXTINF:-1 ,Bengali Beats
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 ,Maasranga Television
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=2202800.m3u8
 #EXTINF:-1 ,channel i
@@ -191,10 +185,6 @@ https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chu
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-video=3224800.m3u8
 #EXTINF:-1 ,jago news 24
 https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
-#EXTINF:-1 ,nexus television
-https://bozztv.com/rongo/rongo-NEXUSTVENC1/tracks-v2a1/mono.m3u8
-#EXTINF:-1 ,rajdhani tv
-https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 ,Hum Sitaray
 https://live.thebosstv.com:30443/dwlive/HUM-SITARAY/chunks.m3u8
 #EXTINF:-1 ,knowledge network
