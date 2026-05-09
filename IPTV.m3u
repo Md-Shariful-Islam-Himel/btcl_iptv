@@ -30,7 +30,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-vid
 #EXTINF:-1 ,Gopal Vaar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,ARY Digital
-https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
+https://cdn07isb.tamashaweb.com:8087/jazzauth/vsat-arydigital-abr/live/84H/chunks_dvr_timeshift-0-3600.m3u8
 #EXTINF:-1 ,ZB Cartoon
 https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Sangshad TV
@@ -57,8 +57,6 @@ https://mumt03.tangotv.in/FOODFOOD/tracks-v2a1/mono.m3u8
 https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=261205&device_type=tv&partner=hisense_syndication&connection=wifi&package_format=vidaa_feed&max_bitrate=4500&preferred_bitrate=1800&custom_param_0=&custom_param_1=tv&custom_param_2=&custom_param_3=&custom_param_4=hisense_syndication&custom_param_5=html5&custom_param_6=North%2520America&ads.vidaa_ads_param=1188363858&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=1735
 #EXTINF:-1 ,TRT World
 https://tv-trtworld.medya.trt.com.tr/master_480.m3u8
-#EXTINF:-1 ,BBC kids
-https://dmr1h4skdal9h.cloudfront.net/2000.m3u8
 #EXTINF:-1 ,TRT Truk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:0 ,Discovery asia
@@ -199,3 +197,5 @@ https://app.ncare.live/live-orgin/iontvuk.stream/live-orgin/iontvuk.stream/chunk
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1 ,TVONE
 https://app.ncare.live/live-orgin/tvoneuksni.stream/live-orgin/tvoneuksni.stream/chunks.m3u8
+#EXTINF:-1 ,Hum Tv
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV1/chunks_dvr.m3u8
