@@ -49,8 +49,6 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png" tvg-logo-small="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png" ,BTV
 http://cdn.moviemazic.xyz:8083/BTV-National/tracks-v1a1/mono.m3u8?token=674694d81ba3e77cccc1a8e7fe4aa883e31127ac-9ed225befccf6e0a5e8f996f3d7567bf-1770399181-1770388381
-#EXTINF:-1 ,ptv news
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/PTVNews-abr/live/191H/chunks.m3u8?nimblesessionid=15605342&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDI2IDExOjU4OjI1IEFNJmhhc2hfdmFsdWU9NldDbzA5L2xpVm8xWWRMVEIzTktRUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVNews-abr/playlist.m3u8
 #EXTINF:-1 ,ARY News
 https://cdn07isb.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/83M/chunks_dvr_timeshift-0-3600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oyIMxzM.png" tvg-logo-small="https://i.imgur.com/oyIMxzM.png" ,toon Google
@@ -65,8 +63,6 @@ https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_24
 https://wildearth-plex.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 ,Peace TV Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_1.m3u8
-#EXTINF:-1 ,Sun News
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/SUN-NEWS-abr/live/187H/chunks.m3u8?nimblesessionid=17075443&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDI2IDEyOjAxOjA4IFBNJmhhc2hfdmFsdWU9QkFvR1pBRzVXdGJldjEvbkRBZlNBQT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/SUN-NEWS-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/rt_channel/newid_rt032/lg_channels/img/channel_logo/default/channel_logo.png" tvg-logo-small="https://cdn88-accio.its-newid.net/rt_channel/newid_rt032/lg_channels/img/channel_logo/default/channel_logo.png" ,YTN
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=ytn&channel_id=newid_rt032&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=fb7bc49a-a2090aa9-850d4824-b061f466&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 ,bonappetit
@@ -75,26 +71,18 @@ https://bonappetit-samsung.amagi.tv/720p-vtt/index.m3u8
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist/4.m3u8
 #EXTINF:-1 ,Independent Tv
 http://cdn.moviemazic.xyz:8083/Feedget/indopendet_nk_33/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,PTV home
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVHome-abr/live/190H/chunks.m3u8?nimblesessionid=28809138&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDI2IDEyOjAzOjAzIFBNJmhhc2hfdmFsdWU9RkdsSmVWSmdodFpDN1FzL2IzalcwUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVHome-abr/playlist.m3u8
 #EXTINF:-1 ,Islamic TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-video=1998800.m3u8
 #EXTINF:-1 ,Banglavision
 http://cdn.moviemazic.xyz:8083/BanglaVision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,PTV National
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/PTVNational-abr/live/193H/chunks.m3u8?nimblesessionid=15607167&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDI2IDEyOjA2OjUzIFBNJmhhc2hfdmFsdWU9RXdpcUpaOWk3WCt2NVZNWklMTGFsZz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVNational-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png" tvg-logo-small="https://ui.cgtn.com/static/ng/resource/images/logo_title.png" ,CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 #EXTINF:-1 ,NHK world
 https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/b95e9aa9a33513b4d3416b7a201ec82c0d5e59c711f7fb0191d49f299d05b62e/a1.m3u8
 #EXTINF:-1 ,bbc cbeebies
 https://e1367czh.filmon.com/live/3191.low.stream/playlist.m3u8
-#EXTINF:-1 ,Hum Masala
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/hummasala-abr/live/vsat-118M/chunks.m3u8?nimblesessionid=15607475&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDI2IDEyOjA4OjI3IFBNJmhhc2hfdmFsdWU9eEtJamVSRjNKWnpBdEZZa09EZWNnUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/hummasala-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/4ZbTdbx/images-1.jpg" tvg-logo-small="https://i.ibb.co.com/4ZbTdbx/images-1.jpg" ,Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 ,Minimax
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/Minimax-abr/live/vsat-88M/chunks.m3u8
 #EXTINF:-1 ,CGTN
 https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 #EXTINF:-1 ,Channel 24
@@ -171,10 +159,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720-audio_113502_eng=113200-video=3224800.m3u8
 #EXTINF:-1 ,star news
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=2407200.m3u8
-#EXTINF:-1 ,Tamasha Life
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/Tamasha-Life-HD-abr/live/Tamasha-Life-HD-M/chunks.m3u8?nimblesessionid=28806227&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDI2IDExOjU2OjA0IEFNJmhhc2hfdmFsdWU9UG8wakNYMFdmMHNoNFBQTDg4NS9TZz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Tamasha-Life-HD-abr/playlist.m3u8
-#EXTINF:-1 ,Paigham tv
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/PaighamTV-abr/live/107M/chunks.m3u8?nimblesessionid=15605728&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDI2IDEyOjAwOjAxIFBNJmhhc2hfdmFsdWU9STVBaklpYnBHWXl1MGxQbW50aGxhUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PaighamTV-abr/playlist.m3u8
 #EXTINF:-1 ,DBC news
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-video=3224800.m3u8
 #EXTINF:-1 ,jago news 24
@@ -185,8 +169,6 @@ https://live.thebosstv.com:30443/dwlive/HUM-SITARAY/chunks.m3u8
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index_2.m3u8
 #EXTINF:-1 ,ilm tv
 https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ,Discovery
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/DiscoveryHD-abr/live/178H/chunks.m3u8?nimblesessionid=15606848&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDI2IDEyOjA1OjAxIFBNJmhhc2hfdmFsdWU9MFM2Yk9rYTVLNTVPZUV1SnJ6bGd6QT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/DiscoveryHD-abr/playlist.m3u8
 #EXTINF:-1 ,rt news
 https://rt-glb.rttv.com/live/rtnews/playlist_1600Kb.m3u8
 #EXTINF:-1 ,Channel S uk
@@ -203,7 +185,3 @@ https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/SabTV-abr/live/vsat-146H/chunks.m3u8
 #EXTINF:-1 ,Madani Channel
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/Madni-abr/live/vsat-94H/chunks.m3u8
-#EXTINF:-1 ,Saudi Sunnah
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/SaudiSunnah(NW)-abr/live/vsat-149M/chunks.m3u8
-#EXTINF:-1 ,Hum Pashto 1
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/Pashto1-abr/live/vsat-113M/chunks.m3u8
