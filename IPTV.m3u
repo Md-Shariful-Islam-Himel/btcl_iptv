@@ -79,8 +79,6 @@ https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/b95e9aa9a33513b4d3416b7a201ec82c0d5e59c711f7fb0191d49f299d05b62e/a1.m3u8
 #EXTINF:-1 ,bbc cbeebies
 https://e1367czh.filmon.com/live/3191.low.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4ZbTdbx/images-1.jpg" tvg-logo-small="https://i.ibb.co.com/4ZbTdbx/images-1.jpg" ,Movie Bangla
-http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 ,CGTN
 https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 #EXTINF:-1 ,Channel 24
