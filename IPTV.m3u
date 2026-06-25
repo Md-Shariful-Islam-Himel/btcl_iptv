@@ -43,8 +43,6 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/q_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" tvg-logo-small="https://i.ibb.co/yBYRgLt/20240813-063955.png" ,Rongeen Tv
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Harpal Geo
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
 #EXTINF:-1 ,Shangshad Bangladesh
 http://cdn.moviemazic.xyz:8083/BTV-National/tracks-v1a1/mono.m3u8?token=674694d81ba3e77cccc1a8e7fe4aa883e31127ac-9ed225befccf6e0a5e8f996f3d7567bf-1770399181-1770388381
 #EXTINF:-1 ,ARY News
@@ -159,8 +157,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-video=3224800.m3u8
 #EXTINF:-1 ,jago news 24
 https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
-#EXTINF:-1 ,Hum Sitaray
-https://live.thebosstv.com:30443/dwlive/HUM-SITARAY/chunks.m3u8
 #EXTINF:-1 ,knowledge network
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index_2.m3u8
 #EXTINF:-1 ,ilm tv
