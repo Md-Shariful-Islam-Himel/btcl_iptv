@@ -7,8 +7,6 @@ http://cdn.moviemazic.xyz:8083/NagorikTV/tracks-v1a1/mono.m3u8
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cocobi&channel_id=newid_104&mpf=c810d3e8-39af1962-43a8b8ad&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=76eefc31-568cecc4-dd2c7662-21fc7668&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" tvg-logo="https://i.imgur.com/4B5FvmX.png" tvg-logo-small="https://i.imgur.com/4B5FvmX.png" ,Palestine Tv
 https://pbc.furrera.ps/palestinehd/tracks-v3a1/mono.m3u8
-#EXTINF:-1 ,Gtv
-http://cdn.moviemazic.xyz:8083/live-5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ekushey Television
 http://cdn.moviemazic.xyz:8083/ETV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/itv/channels/1224-400x200.png" tvg-logo-small="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/itv/channels/1224-400x200.png" ,Space Live
@@ -45,8 +43,6 @@ https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/q_480p/c
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Shangshad Bangladesh
 http://cdn.moviemazic.xyz:8083/BTV-National/tracks-v1a1/mono.m3u8?token=674694d81ba3e77cccc1a8e7fe4aa883e31127ac-9ed225befccf6e0a5e8f996f3d7567bf-1770399181-1770388381
-#EXTINF:-1 ,ARY News
-https://cdn07isb.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/83M/chunks_dvr_timeshift-0-3600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oyIMxzM.png" tvg-logo-small="https://i.imgur.com/oyIMxzM.png" ,toon Google
 https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=261205&device_type=tv&partner=hisense_syndication&connection=wifi&package_format=vidaa_feed&max_bitrate=4500&preferred_bitrate=1800&custom_param_0=&custom_param_1=tv&custom_param_2=&custom_param_3=&custom_param_4=hisense_syndication&custom_param_5=html5&custom_param_6=North%2520America&ads.vidaa_ads_param=1188363858&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=1735
 #EXTINF:-1 ,TRT World
