@@ -14,7 +14,7 @@ https://gusto-localnow.amagi.tv/720p-cc/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/e3cYtrb.jpg" tvg-logo-small="https://i.imgur.com/e3cYtrb.jpg" ,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8?@amarnettv.live
 #EXTINF:-1 ,Deepto Tv
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 ,Gopal Vaar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,ZB Cartoon
